@@ -1,0 +1,424 @@
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392304 is : 298.23313609467453
+Maximum Marks at center 392304 is: 750
+Minimum Marks at center 392304 is: 0
+Marks Above 700 at center 392304 is: 21
+Marks Above 650 at center 392304 is: 56
+Marks Above 600 at center 392304 is: 89
+Marks Above 500 at center 392304 is: 165
+****************************************************************************************
+Average Marks at Center Number 392305 is : 295.46666666666664
+Maximum Marks at center 392305 is: 705
+Minimum Marks at center 392305 is: 8
+Marks Above 700 at center 392305 is: 1
+Marks Above 650 at center 392305 is: 20
+Marks Above 600 at center 392305 is: 73
+Marks Above 500 at center 392305 is: 125
+****************************************************************************************
+Average Marks at Center Number 392306 is : 319.4257703081233
+Maximum Marks at center 392306 is: 715
+Minimum Marks at center 392306 is: 0
+Marks Above 700 at center 392306 is: 5
+Marks Above 650 at center 392306 is: 46
+Marks Above 600 at center 392306 is: 94
+Marks Above 500 at center 392306 is: 170
+****************************************************************************************
+Average Marks at Center Number 392307 is : 377.75384615384615
+Maximum Marks at center 392307 is: 710
+Minimum Marks at center 392307 is: 2
+Marks Above 700 at center 392307 is: 4
+Marks Above 650 at center 392307 is: 62
+Marks Above 600 at center 392307 is: 128
+Marks Above 500 at center 392307 is: 231
+****************************************************************************************
+Average Marks at Center Number 392308 is : 383.06543385490755
+Maximum Marks at center 392308 is: 710
+Minimum Marks at center 392308 is: 6
+Marks Above 700 at center 392308 is: 3
+Marks Above 650 at center 392308 is: 61
+Marks Above 600 at center 392308 is: 126
+Marks Above 500 at center 392308 is: 230
+****************************************************************************************
+Average Marks at Center Number 392309 is : 376.4810659186536
+Maximum Marks at center 392309 is: 705
+Minimum Marks at center 392309 is: 0
+Marks Above 700 at center 392309 is: 2
+Marks Above 650 at center 392309 is: 50
+Marks Above 600 at center 392309 is: 120
+Marks Above 500 at center 392309 is: 230
+****************************************************************************************
+Average Marks at Center Number 392310 is : 376.9664804469274
+Maximum Marks at center 392310 is: 710
+Minimum Marks at center 392310 is: 14
+Marks Above 700 at center 392310 is: 3
+Marks Above 650 at center 392310 is: 54
+Marks Above 600 at center 392310 is: 120
+Marks Above 500 at center 392310 is: 233
+****************************************************************************************
+Average Marks at Center Number 392311 is : 377.2993006993007
+Maximum Marks at center 392311 is: 705
+Minimum Marks at center 392311 is: 7
+Marks Above 700 at center 392311 is: 2
+Marks Above 650 at center 392311 is: 48
+Marks Above 600 at center 392311 is: 112
+Marks Above 500 at center 392311 is: 229
+****************************************************************************************
+Average Marks at Center Number 392312 is : 365.97312588401695
+Maximum Marks at center 392312 is: 705
+Minimum Marks at center 392312 is: 0
+Marks Above 700 at center 392312 is: 2
+Marks Above 650 at center 392312 is: 44
+Marks Above 600 at center 392312 is: 115
+Marks Above 500 at center 392312 is: 212
+****************************************************************************************
+Average Marks at Center Number 392313 is : 375.2843137254902
+Maximum Marks at center 392313 is: 705
+Minimum Marks at center 392313 is: 9
+Marks Above 700 at center 392313 is: 1
+Marks Above 650 at center 392313 is: 53
+Marks Above 600 at center 392313 is: 123
+Marks Above 500 at center 392313 is: 246
+****************************************************************************************
+Average Marks at Center Number 392314 is : 379.1977559607293
+Maximum Marks at center 392314 is: 710
+Minimum Marks at center 392314 is: 2
+Marks Above 700 at center 392314 is: 3
+Marks Above 650 at center 392314 is: 64
+Marks Above 600 at center 392314 is: 125
+Marks Above 500 at center 392314 is: 245
+****************************************************************************************
+Average Marks at Center Number 392315 is : 381.4191616766467
+Maximum Marks at center 392315 is: 715
+Minimum Marks at center 392315 is: 3
+Marks Above 700 at center 392315 is: 3
+Marks Above 650 at center 392315 is: 53
+Marks Above 600 at center 392315 is: 110
+Marks Above 500 at center 392315 is: 219
+****************************************************************************************
+Average Marks at Center Number 392316 is : 384.79731993299833
+Maximum Marks at center 392316 is: 710
+Minimum Marks at center 392316 is: 1
+Marks Above 700 at center 392316 is: 2
+Marks Above 650 at center 392316 is: 50
+Marks Above 600 at center 392316 is: 109
+Marks Above 500 at center 392316 is: 202
+****************************************************************************************
+Average Marks at Center Number 392317 is : 383.6537162162162
+Maximum Marks at center 392317 is: 710
+Minimum Marks at center 392317 is: 0
+Marks Above 700 at center 392317 is: 3
+Marks Above 650 at center 392317 is: 44
+Marks Above 600 at center 392317 is: 84
+Marks Above 500 at center 392317 is: 198
+****************************************************************************************
+Average Marks at Center Number 392318 is : 376.3496621621622
+Maximum Marks at center 392318 is: 695
+Minimum Marks at center 392318 is: 0
+Marks Above 700 at center 392318 is: 0
+Marks Above 650 at center 392318 is: 40
+Marks Above 600 at center 392318 is: 94
+Marks Above 500 at center 392318 is: 199
+****************************************************************************************
+Average Marks at Center Number 392319 is : 377.14808362369337
+Maximum Marks at center 392319 is: 710
+Minimum Marks at center 392319 is: 0
+Marks Above 700 at center 392319 is: 3
+Marks Above 650 at center 392319 is: 44
+Marks Above 600 at center 392319 is: 91
+Marks Above 500 at center 392319 is: 200
+****************************************************************************************
+Average Marks at Center Number 392320 is : 372.7145708582834
+Maximum Marks at center 392320 is: 715
+Minimum Marks at center 392320 is: 0
+Marks Above 700 at center 392320 is: 5
+Marks Above 650 at center 392320 is: 39
+Marks Above 600 at center 392320 is: 89
+Marks Above 500 at center 392320 is: 162
+****************************************************************************************
+Average Marks at Center Number 392321 is : 376.0681362725451
+Maximum Marks at center 392321 is: 715
+Minimum Marks at center 392321 is: 17
+Marks Above 700 at center 392321 is: 3
+Marks Above 650 at center 392321 is: 35
+Marks Above 600 at center 392321 is: 81
+Marks Above 500 at center 392321 is: 143
+****************************************************************************************
+Average Marks at Center Number 392322 is : 385.8426294820717
+Maximum Marks at center 392322 is: 706
+Minimum Marks at center 392322 is: 2
+Marks Above 700 at center 392322 is: 1
+Marks Above 650 at center 392322 is: 46
+Marks Above 600 at center 392322 is: 97
+Marks Above 500 at center 392322 is: 170
+****************************************************************************************
+Average Marks at Center Number 392323 is : 385.07768924302786
+Maximum Marks at center 392323 is: 705
+Minimum Marks at center 392323 is: 10
+Marks Above 700 at center 392323 is: 1
+Marks Above 650 at center 392323 is: 41
+Marks Above 600 at center 392323 is: 97
+Marks Above 500 at center 392323 is: 175
+****************************************************************************************
+Average Marks at Center Number 392324 is : 383.4095427435388
+Maximum Marks at center 392324 is: 710
+Minimum Marks at center 392324 is: 20
+Marks Above 700 at center 392324 is: 1
+Marks Above 650 at center 392324 is: 30
+Marks Above 600 at center 392324 is: 86
+Marks Above 500 at center 392324 is: 166
+****************************************************************************************
+Average Marks at Center Number 392325 is : 386.18725099601596
+Maximum Marks at center 392325 is: 705
+Minimum Marks at center 392325 is: 16
+Marks Above 700 at center 392325 is: 1
+Marks Above 650 at center 392325 is: 46
+Marks Above 600 at center 392325 is: 95
+Marks Above 500 at center 392325 is: 173
+****************************************************************************************
+Average Marks at Center Number 392326 is : 384.17436974789916
+Maximum Marks at center 392326 is: 705
+Minimum Marks at center 392326 is: 0
+Marks Above 700 at center 392326 is: 2
+Marks Above 650 at center 392326 is: 38
+Marks Above 600 at center 392326 is: 85
+Marks Above 500 at center 392326 is: 161
+****************************************************************************************
+Average Marks at Center Number 392327 is : 374.19027484143766
+Maximum Marks at center 392327 is: 710
+Minimum Marks at center 392327 is: 0
+Marks Above 700 at center 392327 is: 1
+Marks Above 650 at center 392327 is: 37
+Marks Above 600 at center 392327 is: 80
+Marks Above 500 at center 392327 is: 148
+****************************************************************************************
+Average Marks at Center Number 392328 is : 384.6476793248945
+Maximum Marks at center 392328 is: 715
+Minimum Marks at center 392328 is: 14
+Marks Above 700 at center 392328 is: 2
+Marks Above 650 at center 392328 is: 29
+Marks Above 600 at center 392328 is: 72
+Marks Above 500 at center 392328 is: 160
+****************************************************************************************
+Average Marks at Center Number 392329 is : 386.0167714884696
+Maximum Marks at center 392329 is: 705
+Minimum Marks at center 392329 is: 8
+Marks Above 700 at center 392329 is: 1
+Marks Above 650 at center 392329 is: 38
+Marks Above 600 at center 392329 is: 85
+Marks Above 500 at center 392329 is: 165
+****************************************************************************************
+Average Marks at Center Number 392330 is : 382.8378947368421
+Maximum Marks at center 392330 is: 715
+Minimum Marks at center 392330 is: 0
+Marks Above 700 at center 392330 is: 2
+Marks Above 650 at center 392330 is: 44
+Marks Above 600 at center 392330 is: 83
+Marks Above 500 at center 392330 is: 166
+****************************************************************************************
+Average Marks at Center Number 392331 is : 367.21276595744683
+Maximum Marks at center 392331 is: 715
+Minimum Marks at center 392331 is: 9
+Marks Above 700 at center 392331 is: 2
+Marks Above 650 at center 392331 is: 36
+Marks Above 600 at center 392331 is: 61
+Marks Above 500 at center 392331 is: 138
+****************************************************************************************
+Average Marks at Center Number 392332 is : 386.0063025210084
+Maximum Marks at center 392332 is: 705
+Minimum Marks at center 392332 is: 23
+Marks Above 700 at center 392332 is: 1
+Marks Above 650 at center 392332 is: 31
+Marks Above 600 at center 392332 is: 82
+Marks Above 500 at center 392332 is: 157
+****************************************************************************************
+Average Marks at Center Number 392333 is : 386.22595078299776
+Maximum Marks at center 392333 is: 705
+Minimum Marks at center 392333 is: 29
+Marks Above 700 at center 392333 is: 2
+Marks Above 650 at center 392333 is: 33
+Marks Above 600 at center 392333 is: 75
+Marks Above 500 at center 392333 is: 148
+****************************************************************************************
+Average Marks at Center Number 392334 is : 385.33176470588234
+Maximum Marks at center 392334 is: 710
+Minimum Marks at center 392334 is: 13
+Marks Above 700 at center 392334 is: 2
+Marks Above 650 at center 392334 is: 39
+Marks Above 600 at center 392334 is: 76
+Marks Above 500 at center 392334 is: 142
+****************************************************************************************
+Average Marks at Center Number 392335 is : 366.89719626168227
+Maximum Marks at center 392335 is: 705
+Minimum Marks at center 392335 is: 0
+Marks Above 700 at center 392335 is: 2
+Marks Above 650 at center 392335 is: 31
+Marks Above 600 at center 392335 is: 71
+Marks Above 500 at center 392335 is: 127
+****************************************************************************************
+Average Marks at Center Number 392336 is : 390.2997658079625
+Maximum Marks at center 392336 is: 705
+Minimum Marks at center 392336 is: 0
+Marks Above 700 at center 392336 is: 1
+Marks Above 650 at center 392336 is: 35
+Marks Above 600 at center 392336 is: 79
+Marks Above 500 at center 392336 is: 152
+****************************************************************************************
+Average Marks at Center Number 392337 is : 383.14953271028037
+Maximum Marks at center 392337 is: 710
+Minimum Marks at center 392337 is: 2
+Marks Above 700 at center 392337 is: 3
+Marks Above 650 at center 392337 is: 31
+Marks Above 600 at center 392337 is: 81
+Marks Above 500 at center 392337 is: 143
+****************************************************************************************
+Average Marks at Center Number 392338 is : 381.9156327543424
+Maximum Marks at center 392338 is: 700
+Minimum Marks at center 392338 is: 33
+Marks Above 700 at center 392338 is: 0
+Marks Above 650 at center 392338 is: 33
+Marks Above 600 at center 392338 is: 69
+Marks Above 500 at center 392338 is: 126
+****************************************************************************************
+Average Marks at Center Number 392339 is : 361.22513089005236
+Maximum Marks at center 392339 is: 690
+Minimum Marks at center 392339 is: 0
+Marks Above 700 at center 392339 is: 0
+Marks Above 650 at center 392339 is: 24
+Marks Above 600 at center 392339 is: 55
+Marks Above 500 at center 392339 is: 109
+****************************************************************************************
+Average Marks at Center Number 392340 is : 359.4708994708995
+Maximum Marks at center 392340 is: 695
+Minimum Marks at center 392340 is: 10
+Marks Above 700 at center 392340 is: 0
+Marks Above 650 at center 392340 is: 30
+Marks Above 600 at center 392340 is: 57
+Marks Above 500 at center 392340 is: 105
+****************************************************************************************
+Average Marks at Center Number 392341 is : 388.8
+Maximum Marks at center 392341 is: 702
+Minimum Marks at center 392341 is: 22
+Marks Above 700 at center 392341 is: 2
+Marks Above 650 at center 392341 is: 30
+Marks Above 600 at center 392341 is: 69
+Marks Above 500 at center 392341 is: 124
+****************************************************************************************
+Average Marks at Center Number 392342 is : 373.5477528089888
+Maximum Marks at center 392342 is: 715
+Minimum Marks at center 392342 is: 18
+Marks Above 700 at center 392342 is: 1
+Marks Above 650 at center 392342 is: 29
+Marks Above 600 at center 392342 is: 62
+Marks Above 500 at center 392342 is: 118
+****************************************************************************************
+Average Marks at Center Number 392343 is : 390.2763532763533
+Maximum Marks at center 392343 is: 702
+Minimum Marks at center 392343 is: 5
+Marks Above 700 at center 392343 is: 1
+Marks Above 650 at center 392343 is: 31
+Marks Above 600 at center 392343 is: 65
+Marks Above 500 at center 392343 is: 126
+****************************************************************************************
+Average Marks at Center Number 392344 is : 370.26610644257704
+Maximum Marks at center 392344 is: 720
+Minimum Marks at center 392344 is: 0
+Marks Above 700 at center 392344 is: 4
+Marks Above 650 at center 392344 is: 29
+Marks Above 600 at center 392344 is: 59
+Marks Above 500 at center 392344 is: 113
+****************************************************************************************
+Average Marks at Center Number 392345 is : 379.48595505617976
+Maximum Marks at center 392345 is: 710
+Minimum Marks at center 392345 is: 1
+Marks Above 700 at center 392345 is: 3
+Marks Above 650 at center 392345 is: 44
+Marks Above 600 at center 392345 is: 74
+Marks Above 500 at center 392345 is: 118
+****************************************************************************************
+Average Marks at Center Number 392346 is : 375.2072829131653
+Maximum Marks at center 392346 is: 720
+Minimum Marks at center 392346 is: 11
+Marks Above 700 at center 392346 is: 3
+Marks Above 650 at center 392346 is: 36
+Marks Above 600 at center 392346 is: 61
+Marks Above 500 at center 392346 is: 114
+****************************************************************************************
+Average Marks at Center Number 392347 is : 351.7781690140845
+Maximum Marks at center 392347 is: 700
+Minimum Marks at center 392347 is: 18
+Marks Above 700 at center 392347 is: 0
+Marks Above 650 at center 392347 is: 16
+Marks Above 600 at center 392347 is: 38
+Marks Above 500 at center 392347 is: 77
+****************************************************************************************
+Average Marks at Center Number 392348 is : 353.3298245614035
+Maximum Marks at center 392348 is: 710
+Minimum Marks at center 392348 is: 6
+Marks Above 700 at center 392348 is: 2
+Marks Above 650 at center 392348 is: 19
+Marks Above 600 at center 392348 is: 42
+Marks Above 500 at center 392348 is: 79
+****************************************************************************************
+Average Marks at Center Number 392349 is : 375.3936063936064
+Maximum Marks at center 392349 is: 720
+Minimum Marks at center 392349 is: 6
+Marks Above 700 at center 392349 is: 8
+Marks Above 650 at center 392349 is: 64
+Marks Above 600 at center 392349 is: 154
+Marks Above 500 at center 392349 is: 316
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392303 is : 292.6904255319149
+Maximum Marks at center 392303 is: 710
+Minimum Marks at center 392303 is: 0
+Marks Above 700 at center 392303 is: 5
+Marks Above 650 at center 392303 is: 45
+Marks Above 600 at center 392303 is: 89
+Marks Above 500 at center 392303 is: 187
+****************************************************************************************
+Average Marks at Center Number 392304 is : 298.23313609467453
+Maximum Marks at center 392304 is: 750
+Minimum Marks at center 392304 is: 0
+Marks Above 700 at center 392304 is: 21
+Marks Above 650 at center 392304 is: 56
+Marks Above 600 at center 392304 is: 89
+Marks Above 500 at center 392304 is: 165

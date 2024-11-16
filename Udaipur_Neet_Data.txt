@@ -1,0 +1,160 @@
+****************************************************************************************
+Average Marks at Center Number 390601 is : 228.96095444685466
+Maximum Marks at center 390601 is: 720
+Minimum Marks at center 390601 is: 5
+Marks Above 700 at center 390601 is: 1
+Marks Above 650 at center 390601 is: 19
+Marks Above 600 at center 390601 is: 42
+Marks Above 500 at center 390601 is: 93
+****************************************************************************************
+Average Marks at Center Number 390602 is : 225.35623003194888
+Maximum Marks at center 390602 is: 696
+Minimum Marks at center 390602 is: 8
+Marks Above 700 at center 390602 is: 0
+Marks Above 650 at center 390602 is: 13
+Marks Above 600 at center 390602 is: 28
+Marks Above 500 at center 390602 is: 64
+****************************************************************************************
+Average Marks at Center Number 390603 is : 213.42222222222222
+Maximum Marks at center 390603 is: 695
+Minimum Marks at center 390603 is: 0
+Marks Above 700 at center 390603 is: 0
+Marks Above 650 at center 390603 is: 10
+Marks Above 600 at center 390603 is: 20
+Marks Above 500 at center 390603 is: 47
+****************************************************************************************
+Average Marks at Center Number 390604 is : 215.5893470790378
+Maximum Marks at center 390604 is: 700
+Minimum Marks at center 390604 is: 2
+Marks Above 700 at center 390604 is: 0
+Marks Above 650 at center 390604 is: 9
+Marks Above 600 at center 390604 is: 24
+Marks Above 500 at center 390604 is: 49
+****************************************************************************************
+Average Marks at Center Number 390605 is : 235.72764227642276
+Maximum Marks at center 390605 is: 710
+Minimum Marks at center 390605 is: 5
+Marks Above 700 at center 390605 is: 1
+Marks Above 650 at center 390605 is: 10
+Marks Above 600 at center 390605 is: 23
+Marks Above 500 at center 390605 is: 48
+****************************************************************************************
+Average Marks at Center Number 390606 is : 221.89959016393442
+Maximum Marks at center 390606 is: 701
+Minimum Marks at center 390606 is: 0
+Marks Above 700 at center 390606 is: 1
+Marks Above 650 at center 390606 is: 10
+Marks Above 600 at center 390606 is: 15
+Marks Above 500 at center 390606 is: 42
+****************************************************************************************
+Average Marks at Center Number 390607 is : 220.05627705627705
+Maximum Marks at center 390607 is: 682
+Minimum Marks at center 390607 is: 0
+Marks Above 700 at center 390607 is: 0
+Marks Above 650 at center 390607 is: 4
+Marks Above 600 at center 390607 is: 15
+Marks Above 500 at center 390607 is: 36
+****************************************************************************************
+Average Marks at Center Number 390608 is : 215.96774193548387
+Maximum Marks at center 390608 is: 700
+Minimum Marks at center 390608 is: 1
+Marks Above 700 at center 390608 is: 0
+Marks Above 650 at center 390608 is: 7
+Marks Above 600 at center 390608 is: 19
+Marks Above 500 at center 390608 is: 41
+****************************************************************************************
+Average Marks at Center Number 390609 is : 226.26666666666668
+Maximum Marks at center 390609 is: 690
+Minimum Marks at center 390609 is: 0
+Marks Above 700 at center 390609 is: 0
+Marks Above 650 at center 390609 is: 5
+Marks Above 600 at center 390609 is: 17
+Marks Above 500 at center 390609 is: 42
+****************************************************************************************
+Average Marks at Center Number 390610 is : 189.1951754385965
+Maximum Marks at center 390610 is: 705
+Minimum Marks at center 390610 is: 5
+Marks Above 700 at center 390610 is: 1
+Marks Above 650 at center 390610 is: 5
+Marks Above 600 at center 390610 is: 11
+Marks Above 500 at center 390610 is: 29
+****************************************************************************************
+Average Marks at Center Number 390611 is : 174.05790645879733
+Maximum Marks at center 390611 is: 691
+Minimum Marks at center 390611 is: 1
+Marks Above 700 at center 390611 is: 0
+Marks Above 650 at center 390611 is: 3
+Marks Above 600 at center 390611 is: 7
+Marks Above 500 at center 390611 is: 18
+****************************************************************************************
+Average Marks at Center Number 390612 is : 160.20394736842104
+Maximum Marks at center 390612 is: 681
+Minimum Marks at center 390612 is: 1
+Marks Above 700 at center 390612 is: 0
+Marks Above 650 at center 390612 is: 4
+Marks Above 600 at center 390612 is: 10
+Marks Above 500 at center 390612 is: 29
+****************************************************************************************
+Average Marks at Center Number 390613 is : 155.99101123595506
+Maximum Marks at center 390613 is: 667
+Minimum Marks at center 390613 is: 4
+Marks Above 700 at center 390613 is: 0
+Marks Above 650 at center 390613 is: 3
+Marks Above 600 at center 390613 is: 7
+Marks Above 500 at center 390613 is: 21
+****************************************************************************************
+Average Marks at Center Number 390614 is : 161.74881516587678
+Maximum Marks at center 390614 is: 688
+Minimum Marks at center 390614 is: 0
+Marks Above 700 at center 390614 is: 0
+Marks Above 650 at center 390614 is: 2
+Marks Above 600 at center 390614 is: 8
+Marks Above 500 at center 390614 is: 23
+****************************************************************************************
+Average Marks at Center Number 390615 is : 187.78855721393035
+Maximum Marks at center 390615 is: 687
+Minimum Marks at center 390615 is: 4
+Marks Above 700 at center 390615 is: 0
+Marks Above 650 at center 390615 is: 4
+Marks Above 600 at center 390615 is: 8
+Marks Above 500 at center 390615 is: 21
+****************************************************************************************
+Average Marks at Center Number 390616 is : 162.5695538057743
+Maximum Marks at center 390616 is: 680
+Minimum Marks at center 390616 is: 1
+Marks Above 700 at center 390616 is: 0
+Marks Above 650 at center 390616 is: 1
+Marks Above 600 at center 390616 is: 4
+Marks Above 500 at center 390616 is: 13
+****************************************************************************************
+Average Marks at Center Number 390617 is : 176.75739644970415
+Maximum Marks at center 390617 is: 710
+Minimum Marks at center 390617 is: 0
+Marks Above 700 at center 390617 is: 2
+Marks Above 650 at center 390617 is: 5
+Marks Above 600 at center 390617 is: 7
+Marks Above 500 at center 390617 is: 13
+****************************************************************************************
+Average Marks at Center Number 390618 is : 173.5459940652819
+Maximum Marks at center 390618 is: 642
+Minimum Marks at center 390618 is: 5
+Marks Above 700 at center 390618 is: 0
+Marks Above 650 at center 390618 is: 0
+Marks Above 600 at center 390618 is: 4
+Marks Above 500 at center 390618 is: 16
+****************************************************************************************
+Average Marks at Center Number 390619 is : 159.5186440677966
+Maximum Marks at center 390619 is: 627
+Minimum Marks at center 390619 is: 2
+Marks Above 700 at center 390619 is: 0
+Marks Above 650 at center 390619 is: 0
+Marks Above 600 at center 390619 is: 3
+Marks Above 500 at center 390619 is: 9
+****************************************************************************************
+Average Marks at Center Number 390620 is : 158.61052631578949
+Maximum Marks at center 390620 is: 679
+Minimum Marks at center 390620 is: 14
+Marks Above 700 at center 390620 is: 0
+Marks Above 650 at center 390620 is: 2
+Marks Above 600 at center 390620 is: 3
+Marks Above 500 at center 390620 is: 7

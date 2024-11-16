@@ -1,0 +1,688 @@
+****************************************************************************************
+Average Marks at Center Number 390301 is : 267.8292046936115
+Maximum Marks at center 390301 is: 720
+Minimum Marks at center 390301 is: 0
+Marks Above 700 at center 390301 is: 1
+Marks Above 650 at center 390301 is: 25
+Marks Above 600 at center 390301 is: 60
+Marks Above 500 at center 390301 is: 105
+****************************************************************************************
+Average Marks at Center Number 390302 is : 270.9845360824742
+Maximum Marks at center 390302 is: 720
+Minimum Marks at center 390302 is: 3
+Marks Above 700 at center 390302 is: 3
+Marks Above 650 at center 390302 is: 22
+Marks Above 600 at center 390302 is: 47
+Marks Above 500 at center 390302 is: 133
+****************************************************************************************
+Average Marks at Center Number 390303 is : 277.58890469416787
+Maximum Marks at center 390303 is: 695
+Minimum Marks at center 390303 is: 1
+Marks Above 700 at center 390303 is: 0
+Marks Above 650 at center 390303 is: 10
+Marks Above 600 at center 390303 is: 39
+Marks Above 500 at center 390303 is: 103
+****************************************************************************************
+Average Marks at Center Number 390304 is : 262.7202380952381
+Maximum Marks at center 390304 is: 706
+Minimum Marks at center 390304 is: 3
+Marks Above 700 at center 390304 is: 1
+Marks Above 650 at center 390304 is: 18
+Marks Above 600 at center 390304 is: 43
+Marks Above 500 at center 390304 is: 98
+****************************************************************************************
+Average Marks at Center Number 390305 is : 263.1979166666667
+Maximum Marks at center 390305 is: 697
+Minimum Marks at center 390305 is: 2
+Marks Above 700 at center 390305 is: 0
+Marks Above 650 at center 390305 is: 11
+Marks Above 600 at center 390305 is: 31
+Marks Above 500 at center 390305 is: 73
+****************************************************************************************
+Average Marks at Center Number 390306 is : 260.11890838206625
+Maximum Marks at center 390306 is: 710
+Minimum Marks at center 390306 is: 0
+Marks Above 700 at center 390306 is: 3
+Marks Above 650 at center 390306 is: 23
+Marks Above 600 at center 390306 is: 36
+Marks Above 500 at center 390306 is: 69
+****************************************************************************************
+Average Marks at Center Number 390307 is : 266.06639839034204
+Maximum Marks at center 390307 is: 715
+Minimum Marks at center 390307 is: 1
+Marks Above 700 at center 390307 is: 1
+Marks Above 650 at center 390307 is: 13
+Marks Above 600 at center 390307 is: 34
+Marks Above 500 at center 390307 is: 75
+****************************************************************************************
+Average Marks at Center Number 390308 is : 263.9485596707819
+Maximum Marks at center 390308 is: 703
+Minimum Marks at center 390308 is: 1
+Marks Above 700 at center 390308 is: 1
+Marks Above 650 at center 390308 is: 16
+Marks Above 600 at center 390308 is: 32
+Marks Above 500 at center 390308 is: 77
+****************************************************************************************
+Average Marks at Center Number 390309 is : 258.2564655172414
+Maximum Marks at center 390309 is: 685
+Minimum Marks at center 390309 is: 0
+Marks Above 700 at center 390309 is: 0
+Marks Above 650 at center 390309 is: 9
+Marks Above 600 at center 390309 is: 26
+Marks Above 500 at center 390309 is: 64
+****************************************************************************************
+Average Marks at Center Number 390310 is : 275.5285714285714
+Maximum Marks at center 390310 is: 710
+Minimum Marks at center 390310 is: 11
+Marks Above 700 at center 390310 is: 3
+Marks Above 650 at center 390310 is: 11
+Marks Above 600 at center 390310 is: 28
+Marks Above 500 at center 390310 is: 68
+****************************************************************************************
+Average Marks at Center Number 390311 is : 272.1878515185602
+Maximum Marks at center 390311 is: 715
+Minimum Marks at center 390311 is: 5
+Marks Above 700 at center 390311 is: 3
+Marks Above 650 at center 390311 is: 47
+Marks Above 600 at center 390311 is: 73
+Marks Above 500 at center 390311 is: 133
+****************************************************************************************
+Average Marks at Center Number 390312 is : 263.0762711864407
+Maximum Marks at center 390312 is: 710
+Minimum Marks at center 390312 is: 0
+Marks Above 700 at center 390312 is: 4
+Marks Above 650 at center 390312 is: 29
+Marks Above 600 at center 390312 is: 76
+Marks Above 500 at center 390312 is: 158
+****************************************************************************************
+Average Marks at Center Number 390313 is : 292.5046808510638
+Maximum Marks at center 390313 is: 1170
+Minimum Marks at center 390313 is: 12
+Marks Above 700 at center 390313 is: 47
+Marks Above 650 at center 390313 is: 83
+Marks Above 600 at center 390313 is: 115
+Marks Above 500 at center 390313 is: 211
+****************************************************************************************
+Average Marks at Center Number 390314 is : 270.02285714285716
+Maximum Marks at center 390314 is: 710
+Minimum Marks at center 390314 is: 1
+Marks Above 700 at center 390314 is: 2
+Marks Above 650 at center 390314 is: 28
+Marks Above 600 at center 390314 is: 66
+Marks Above 500 at center 390314 is: 159
+****************************************************************************************
+Average Marks at Center Number 390315 is : 279.70582329317267
+Maximum Marks at center 390315 is: 960
+Minimum Marks at center 390315 is: 0
+Marks Above 700 at center 390315 is: 17
+Marks Above 650 at center 390315 is: 46
+Marks Above 600 at center 390315 is: 93
+Marks Above 500 at center 390315 is: 167
+****************************************************************************************
+Average Marks at Center Number 390316 is : 289.0923737916219
+Maximum Marks at center 390316 is: 710
+Minimum Marks at center 390316 is: 7
+Marks Above 700 at center 390316 is: 4
+Marks Above 650 at center 390316 is: 32
+Marks Above 600 at center 390316 is: 74
+Marks Above 500 at center 390316 is: 171
+****************************************************************************************
+Average Marks at Center Number 390317 is : 281.9069518716578
+Maximum Marks at center 390317 is: 706
+Minimum Marks at center 390317 is: 0
+Marks Above 700 at center 390317 is: 4
+Marks Above 650 at center 390317 is: 40
+Marks Above 600 at center 390317 is: 88
+Marks Above 500 at center 390317 is: 168
+****************************************************************************************
+Average Marks at Center Number 390318 is : 292.41299559471366
+Maximum Marks at center 390318 is: 810
+Minimum Marks at center 390318 is: 1
+Marks Above 700 at center 390318 is: 10
+Marks Above 650 at center 390318 is: 40
+Marks Above 600 at center 390318 is: 83
+Marks Above 500 at center 390318 is: 172
+****************************************************************************************
+Average Marks at Center Number 390319 is : 295.3665919282511
+Maximum Marks at center 390319 is: 705
+Minimum Marks at center 390319 is: 0
+Marks Above 700 at center 390319 is: 1
+Marks Above 650 at center 390319 is: 38
+Marks Above 600 at center 390319 is: 116
+Marks Above 500 at center 390319 is: 187
+****************************************************************************************
+Average Marks at Center Number 390320 is : 277.52477477477476
+Maximum Marks at center 390320 is: 780
+Minimum Marks at center 390320 is: 0
+Marks Above 700 at center 390320 is: 5
+Marks Above 650 at center 390320 is: 37
+Marks Above 600 at center 390320 is: 75
+Marks Above 500 at center 390320 is: 149
+****************************************************************************************
+Average Marks at Center Number 390321 is : 279.93398533007337
+Maximum Marks at center 390321 is: 715
+Minimum Marks at center 390321 is: 5
+Marks Above 700 at center 390321 is: 5
+Marks Above 650 at center 390321 is: 33
+Marks Above 600 at center 390321 is: 66
+Marks Above 500 at center 390321 is: 152
+****************************************************************************************
+Average Marks at Center Number 390322 is : 270.3014705882353
+Maximum Marks at center 390322 is: 700
+Minimum Marks at center 390322 is: 3
+Marks Above 700 at center 390322 is: 0
+Marks Above 650 at center 390322 is: 20
+Marks Above 600 at center 390322 is: 55
+Marks Above 500 at center 390322 is: 127
+****************************************************************************************
+Average Marks at Center Number 390323 is : 304.6336375488918
+Maximum Marks at center 390323 is: 715
+Minimum Marks at center 390323 is: 1
+Marks Above 700 at center 390323 is: 2
+Marks Above 650 at center 390323 is: 30
+Marks Above 600 at center 390323 is: 103
+Marks Above 500 at center 390323 is: 169
+****************************************************************************************
+Average Marks at Center Number 390324 is : 293.3868046571798
+Maximum Marks at center 390324 is: 720
+Minimum Marks at center 390324 is: 7
+Marks Above 700 at center 390324 is: 23
+Marks Above 650 at center 390324 is: 43
+Marks Above 600 at center 390324 is: 71
+Marks Above 500 at center 390324 is: 135
+****************************************************************************************
+Average Marks at Center Number 390325 is : 274.9987080103359
+Maximum Marks at center 390325 is: 720
+Minimum Marks at center 390325 is: 0
+Marks Above 700 at center 390325 is: 4
+Marks Above 650 at center 390325 is: 33
+Marks Above 600 at center 390325 is: 60
+Marks Above 500 at center 390325 is: 126
+****************************************************************************************
+Average Marks at Center Number 390326 is : 281.9642857142857
+Maximum Marks at center 390326 is: 716
+Minimum Marks at center 390326 is: 2
+Marks Above 700 at center 390326 is: 2
+Marks Above 650 at center 390326 is: 26
+Marks Above 600 at center 390326 is: 52
+Marks Above 500 at center 390326 is: 124
+****************************************************************************************
+Average Marks at Center Number 390327 is : 278.11095305832146
+Maximum Marks at center 390327 is: 720
+Minimum Marks at center 390327 is: 9
+Marks Above 700 at center 390327 is: 2
+Marks Above 650 at center 390327 is: 21
+Marks Above 600 at center 390327 is: 58
+Marks Above 500 at center 390327 is: 122
+****************************************************************************************
+Average Marks at Center Number 390328 is : 282.81365576102417
+Maximum Marks at center 390328 is: 715
+Minimum Marks at center 390328 is: 5
+Marks Above 700 at center 390328 is: 7
+Marks Above 650 at center 390328 is: 33
+Marks Above 600 at center 390328 is: 65
+Marks Above 500 at center 390328 is: 115
+****************************************************************************************
+Average Marks at Center Number 390329 is : 269.02714285714285
+Maximum Marks at center 390329 is: 715
+Minimum Marks at center 390329 is: 2
+Marks Above 700 at center 390329 is: 2
+Marks Above 650 at center 390329 is: 26
+Marks Above 600 at center 390329 is: 62
+Marks Above 500 at center 390329 is: 115
+****************************************************************************************
+Average Marks at Center Number 390330 is : 302.78031383737516
+Maximum Marks at center 390330 is: 705
+Minimum Marks at center 390330 is: 0
+Marks Above 700 at center 390330 is: 3
+Marks Above 650 at center 390330 is: 35
+Marks Above 600 at center 390330 is: 81
+Marks Above 500 at center 390330 is: 147
+****************************************************************************************
+Average Marks at Center Number 390331 is : 266.5917496443812
+Maximum Marks at center 390331 is: 705
+Minimum Marks at center 390331 is: 5
+Marks Above 700 at center 390331 is: 2
+Marks Above 650 at center 390331 is: 26
+Marks Above 600 at center 390331 is: 53
+Marks Above 500 at center 390331 is: 107
+****************************************************************************************
+Average Marks at Center Number 390332 is : 287.89758179231865
+Maximum Marks at center 390332 is: 701
+Minimum Marks at center 390332 is: 0
+Marks Above 700 at center 390332 is: 1
+Marks Above 650 at center 390332 is: 23
+Marks Above 600 at center 390332 is: 55
+Marks Above 500 at center 390332 is: 120
+****************************************************************************************
+Average Marks at Center Number 390333 is : 288.33714285714285
+Maximum Marks at center 390333 is: 701
+Minimum Marks at center 390333 is: 0
+Marks Above 700 at center 390333 is: 1
+Marks Above 650 at center 390333 is: 13
+Marks Above 600 at center 390333 is: 66
+Marks Above 500 at center 390333 is: 129
+****************************************************************************************
+Average Marks at Center Number 390334 is : 271.6104815864023
+Maximum Marks at center 390334 is: 705
+Minimum Marks at center 390334 is: 8
+Marks Above 700 at center 390334 is: 1
+Marks Above 650 at center 390334 is: 33
+Marks Above 600 at center 390334 is: 64
+Marks Above 500 at center 390334 is: 123
+****************************************************************************************
+Average Marks at Center Number 390335 is : 285.02263083451203
+Maximum Marks at center 390335 is: 691
+Minimum Marks at center 390335 is: 7
+Marks Above 700 at center 390335 is: 0
+Marks Above 650 at center 390335 is: 18
+Marks Above 600 at center 390335 is: 52
+Marks Above 500 at center 390335 is: 119
+****************************************************************************************
+Average Marks at Center Number 390336 is : 295.59065155807366
+Maximum Marks at center 390336 is: 711
+Minimum Marks at center 390336 is: 0
+Marks Above 700 at center 390336 is: 2
+Marks Above 650 at center 390336 is: 44
+Marks Above 600 at center 390336 is: 77
+Marks Above 500 at center 390336 is: 142
+****************************************************************************************
+Average Marks at Center Number 390337 is : 284.9317211948791
+Maximum Marks at center 390337 is: 705
+Minimum Marks at center 390337 is: 0
+Marks Above 700 at center 390337 is: 2
+Marks Above 650 at center 390337 is: 26
+Marks Above 600 at center 390337 is: 57
+Marks Above 500 at center 390337 is: 126
+****************************************************************************************
+Average Marks at Center Number 390338 is : 277.38034188034186
+Maximum Marks at center 390338 is: 710
+Minimum Marks at center 390338 is: 10
+Marks Above 700 at center 390338 is: 7
+Marks Above 650 at center 390338 is: 23
+Marks Above 600 at center 390338 is: 53
+Marks Above 500 at center 390338 is: 111
+****************************************************************************************
+Average Marks at Center Number 390339 is : 280.7602836879433
+Maximum Marks at center 390339 is: 700
+Minimum Marks at center 390339 is: 10
+Marks Above 700 at center 390339 is: 0
+Marks Above 650 at center 390339 is: 25
+Marks Above 600 at center 390339 is: 47
+Marks Above 500 at center 390339 is: 116
+****************************************************************************************
+Average Marks at Center Number 390340 is : 281.4277620396601
+Maximum Marks at center 390340 is: 700
+Minimum Marks at center 390340 is: 13
+Marks Above 700 at center 390340 is: 0
+Marks Above 650 at center 390340 is: 19
+Marks Above 600 at center 390340 is: 58
+Marks Above 500 at center 390340 is: 128
+****************************************************************************************
+Average Marks at Center Number 390341 is : 272.9631728045326
+Maximum Marks at center 390341 is: 705
+Minimum Marks at center 390341 is: 1
+Marks Above 700 at center 390341 is: 1
+Marks Above 650 at center 390341 is: 17
+Marks Above 600 at center 390341 is: 42
+Marks Above 500 at center 390341 is: 101
+****************************************************************************************
+Average Marks at Center Number 390342 is : 256.6925418569254
+Maximum Marks at center 390342 is: 715
+Minimum Marks at center 390342 is: 17
+Marks Above 700 at center 390342 is: 2
+Marks Above 650 at center 390342 is: 18
+Marks Above 600 at center 390342 is: 38
+Marks Above 500 at center 390342 is: 93
+****************************************************************************************
+Average Marks at Center Number 390343 is : 276.9351265822785
+Maximum Marks at center 390343 is: 702
+Minimum Marks at center 390343 is: 0
+Marks Above 700 at center 390343 is: 1
+Marks Above 650 at center 390343 is: 15
+Marks Above 600 at center 390343 is: 43
+Marks Above 500 at center 390343 is: 108
+****************************************************************************************
+Average Marks at Center Number 390344 is : 303.47723704866564
+Maximum Marks at center 390344 is: 701
+Minimum Marks at center 390344 is: 0
+Marks Above 700 at center 390344 is: 1
+Marks Above 650 at center 390344 is: 28
+Marks Above 600 at center 390344 is: 63
+Marks Above 500 at center 390344 is: 130
+****************************************************************************************
+Average Marks at Center Number 390345 is : 289.54675118858955
+Maximum Marks at center 390345 is: 700
+Minimum Marks at center 390345 is: 5
+Marks Above 700 at center 390345 is: 0
+Marks Above 650 at center 390345 is: 23
+Marks Above 600 at center 390345 is: 54
+Marks Above 500 at center 390345 is: 129
+****************************************************************************************
+Average Marks at Center Number 390346 is : 287.68878357030013
+Maximum Marks at center 390346 is: 695
+Minimum Marks at center 390346 is: 4
+Marks Above 700 at center 390346 is: 0
+Marks Above 650 at center 390346 is: 16
+Marks Above 600 at center 390346 is: 58
+Marks Above 500 at center 390346 is: 121
+****************************************************************************************
+Average Marks at Center Number 390347 is : 285.4317789291883
+Maximum Marks at center 390347 is: 695
+Minimum Marks at center 390347 is: 15
+Marks Above 700 at center 390347 is: 0
+Marks Above 650 at center 390347 is: 15
+Marks Above 600 at center 390347 is: 49
+Marks Above 500 at center 390347 is: 99
+****************************************************************************************
+Average Marks at Center Number 390348 is : 277.76460481099656
+Maximum Marks at center 390348 is: 710
+Minimum Marks at center 390348 is: 0
+Marks Above 700 at center 390348 is: 1
+Marks Above 650 at center 390348 is: 14
+Marks Above 600 at center 390348 is: 32
+Marks Above 500 at center 390348 is: 86
+****************************************************************************************
+Average Marks at Center Number 390349 is : 286.86348122866895
+Maximum Marks at center 390349 is: 710
+Minimum Marks at center 390349 is: 0
+Marks Above 700 at center 390349 is: 2
+Marks Above 650 at center 390349 is: 14
+Marks Above 600 at center 390349 is: 43
+Marks Above 500 at center 390349 is: 97
+****************************************************************************************
+Average Marks at Center Number 390350 is : 290.1897435897436
+Maximum Marks at center 390350 is: 710
+Minimum Marks at center 390350 is: 7
+Marks Above 700 at center 390350 is: 1
+Marks Above 650 at center 390350 is: 16
+Marks Above 600 at center 390350 is: 41
+Marks Above 500 at center 390350 is: 95
+****************************************************************************************
+Average Marks at Center Number 390351 is : 285.43581081081084
+Maximum Marks at center 390351 is: 681
+Minimum Marks at center 390351 is: 0
+Marks Above 700 at center 390351 is: 0
+Marks Above 650 at center 390351 is: 21
+Marks Above 600 at center 390351 is: 51
+Marks Above 500 at center 390351 is: 104
+****************************************************************************************
+Average Marks at Center Number 390352 is : 277.1822827938671
+Maximum Marks at center 390352 is: 715
+Minimum Marks at center 390352 is: 6
+Marks Above 700 at center 390352 is: 1
+Marks Above 650 at center 390352 is: 13
+Marks Above 600 at center 390352 is: 42
+Marks Above 500 at center 390352 is: 86
+****************************************************************************************
+Average Marks at Center Number 390353 is : 276.7560553633218
+Maximum Marks at center 390353 is: 685
+Minimum Marks at center 390353 is: 2
+Marks Above 700 at center 390353 is: 0
+Marks Above 650 at center 390353 is: 11
+Marks Above 600 at center 390353 is: 41
+Marks Above 500 at center 390353 is: 100
+****************************************************************************************
+Average Marks at Center Number 390354 is : 284.31058020477815
+Maximum Marks at center 390354 is: 695
+Minimum Marks at center 390354 is: 5
+Marks Above 700 at center 390354 is: 0
+Marks Above 650 at center 390354 is: 15
+Marks Above 600 at center 390354 is: 39
+Marks Above 500 at center 390354 is: 101
+****************************************************************************************
+Average Marks at Center Number 390355 is : 279.6110154905336
+Maximum Marks at center 390355 is: 705
+Minimum Marks at center 390355 is: 0
+Marks Above 700 at center 390355 is: 2
+Marks Above 650 at center 390355 is: 21
+Marks Above 600 at center 390355 is: 54
+Marks Above 500 at center 390355 is: 106
+****************************************************************************************
+Average Marks at Center Number 390356 is : 286.30608695652177
+Maximum Marks at center 390356 is: 695
+Minimum Marks at center 390356 is: 8
+Marks Above 700 at center 390356 is: 0
+Marks Above 650 at center 390356 is: 14
+Marks Above 600 at center 390356 is: 41
+Marks Above 500 at center 390356 is: 94
+****************************************************************************************
+Average Marks at Center Number 390357 is : 272.1194539249147
+Maximum Marks at center 390357 is: 700
+Minimum Marks at center 390357 is: 3
+Marks Above 700 at center 390357 is: 0
+Marks Above 650 at center 390357 is: 11
+Marks Above 600 at center 390357 is: 32
+Marks Above 500 at center 390357 is: 96
+****************************************************************************************
+Average Marks at Center Number 390358 is : 283.01692047377327
+Maximum Marks at center 390358 is: 695
+Minimum Marks at center 390358 is: 0
+Marks Above 700 at center 390358 is: 0
+Marks Above 650 at center 390358 is: 15
+Marks Above 600 at center 390358 is: 41
+Marks Above 500 at center 390358 is: 94
+****************************************************************************************
+Average Marks at Center Number 390359 is : 284.8627118644068
+Maximum Marks at center 390359 is: 690
+Minimum Marks at center 390359 is: 2
+Marks Above 700 at center 390359 is: 0
+Marks Above 650 at center 390359 is: 11
+Marks Above 600 at center 390359 is: 40
+Marks Above 500 at center 390359 is: 106
+****************************************************************************************
+Average Marks at Center Number 390360 is : 298.92758620689654
+Maximum Marks at center 390360 is: 715
+Minimum Marks at center 390360 is: 0
+Marks Above 700 at center 390360 is: 1
+Marks Above 650 at center 390360 is: 16
+Marks Above 600 at center 390360 is: 50
+Marks Above 500 at center 390360 is: 130
+****************************************************************************************
+Average Marks at Center Number 390361 is : 272.68888888888887
+Maximum Marks at center 390361 is: 715
+Minimum Marks at center 390361 is: 1
+Marks Above 700 at center 390361 is: 1
+Marks Above 650 at center 390361 is: 15
+Marks Above 600 at center 390361 is: 31
+Marks Above 500 at center 390361 is: 85
+****************************************************************************************
+Average Marks at Center Number 390362 is : 263.8627118644068
+Maximum Marks at center 390362 is: 695
+Minimum Marks at center 390362 is: 5
+Marks Above 700 at center 390362 is: 0
+Marks Above 650 at center 390362 is: 12
+Marks Above 600 at center 390362 is: 35
+Marks Above 500 at center 390362 is: 96
+****************************************************************************************
+Average Marks at Center Number 390363 is : 272.2610169491525
+Maximum Marks at center 390363 is: 706
+Minimum Marks at center 390363 is: 5
+Marks Above 700 at center 390363 is: 2
+Marks Above 650 at center 390363 is: 16
+Marks Above 600 at center 390363 is: 38
+Marks Above 500 at center 390363 is: 96
+****************************************************************************************
+Average Marks at Center Number 390364 is : 280.89203539823006
+Maximum Marks at center 390364 is: 695
+Minimum Marks at center 390364 is: 5
+Marks Above 700 at center 390364 is: 0
+Marks Above 650 at center 390364 is: 12
+Marks Above 600 at center 390364 is: 46
+Marks Above 500 at center 390364 is: 99
+****************************************************************************************
+Average Marks at Center Number 390365 is : 274.6802218114603
+Maximum Marks at center 390365 is: 715
+Minimum Marks at center 390365 is: 0
+Marks Above 700 at center 390365 is: 1
+Marks Above 650 at center 390365 is: 11
+Marks Above 600 at center 390365 is: 40
+Marks Above 500 at center 390365 is: 93
+****************************************************************************************
+Average Marks at Center Number 390366 is : 291.4188191881919
+Maximum Marks at center 390366 is: 697
+Minimum Marks at center 390366 is: 9
+Marks Above 700 at center 390366 is: 0
+Marks Above 650 at center 390366 is: 13
+Marks Above 600 at center 390366 is: 39
+Marks Above 500 at center 390366 is: 108
+****************************************************************************************
+Average Marks at Center Number 390367 is : 274.0
+Maximum Marks at center 390367 is: 700
+Minimum Marks at center 390367 is: 0
+Marks Above 700 at center 390367 is: 0
+Marks Above 650 at center 390367 is: 14
+Marks Above 600 at center 390367 is: 37
+Marks Above 500 at center 390367 is: 90
+****************************************************************************************
+Average Marks at Center Number 390368 is : 285.22178988326846
+Maximum Marks at center 390368 is: 705
+Minimum Marks at center 390368 is: 6
+Marks Above 700 at center 390368 is: 2
+Marks Above 650 at center 390368 is: 16
+Marks Above 600 at center 390368 is: 39
+Marks Above 500 at center 390368 is: 90
+****************************************************************************************
+Average Marks at Center Number 390369 is : 270.95943204868155
+Maximum Marks at center 390369 is: 692
+Minimum Marks at center 390369 is: 0
+Marks Above 700 at center 390369 is: 0
+Marks Above 650 at center 390369 is: 18
+Marks Above 600 at center 390369 is: 35
+Marks Above 500 at center 390369 is: 78
+****************************************************************************************
+Average Marks at Center Number 390370 is : 278.8714859437751
+Maximum Marks at center 390370 is: 686
+Minimum Marks at center 390370 is: 5
+Marks Above 700 at center 390370 is: 0
+Marks Above 650 at center 390370 is: 13
+Marks Above 600 at center 390370 is: 35
+Marks Above 500 at center 390370 is: 74
+****************************************************************************************
+Average Marks at Center Number 390371 is : 282.18940936863544
+Maximum Marks at center 390371 is: 706
+Minimum Marks at center 390371 is: 10
+Marks Above 700 at center 390371 is: 1
+Marks Above 650 at center 390371 is: 18
+Marks Above 600 at center 390371 is: 56
+Marks Above 500 at center 390371 is: 99
+****************************************************************************************
+Average Marks at Center Number 390372 is : 294.780487804878
+Maximum Marks at center 390372 is: 695
+Minimum Marks at center 390372 is: 7
+Marks Above 700 at center 390372 is: 0
+Marks Above 650 at center 390372 is: 14
+Marks Above 600 at center 390372 is: 49
+Marks Above 500 at center 390372 is: 104
+****************************************************************************************
+Average Marks at Center Number 390373 is : 274.2381974248927
+Maximum Marks at center 390373 is: 682
+Minimum Marks at center 390373 is: 9
+Marks Above 700 at center 390373 is: 0
+Marks Above 650 at center 390373 is: 8
+Marks Above 600 at center 390373 is: 24
+Marks Above 500 at center 390373 is: 75
+****************************************************************************************
+Average Marks at Center Number 390374 is : 286.1207627118644
+Maximum Marks at center 390374 is: 691
+Minimum Marks at center 390374 is: 0
+Marks Above 700 at center 390374 is: 0
+Marks Above 650 at center 390374 is: 12
+Marks Above 600 at center 390374 is: 42
+Marks Above 500 at center 390374 is: 88
+****************************************************************************************
+Average Marks at Center Number 390375 is : 291.10993657505287
+Maximum Marks at center 390375 is: 696
+Minimum Marks at center 390375 is: 7
+Marks Above 700 at center 390375 is: 0
+Marks Above 650 at center 390375 is: 15
+Marks Above 600 at center 390375 is: 39
+Marks Above 500 at center 390375 is: 81
+****************************************************************************************
+Average Marks at Center Number 390376 is : 284.22222222222223
+Maximum Marks at center 390376 is: 705
+Minimum Marks at center 390376 is: 5
+Marks Above 700 at center 390376 is: 1
+Marks Above 650 at center 390376 is: 10
+Marks Above 600 at center 390376 is: 31
+Marks Above 500 at center 390376 is: 86
+****************************************************************************************
+Average Marks at Center Number 390377 is : 278.30277185501063
+Maximum Marks at center 390377 is: 695
+Minimum Marks at center 390377 is: 0
+Marks Above 700 at center 390377 is: 0
+Marks Above 650 at center 390377 is: 12
+Marks Above 600 at center 390377 is: 29
+Marks Above 500 at center 390377 is: 70
+****************************************************************************************
+Average Marks at Center Number 390378 is : 273.8779443254818
+Maximum Marks at center 390378 is: 685
+Minimum Marks at center 390378 is: 3
+Marks Above 700 at center 390378 is: 0
+Marks Above 650 at center 390378 is: 12
+Marks Above 600 at center 390378 is: 28
+Marks Above 500 at center 390378 is: 75
+****************************************************************************************
+Average Marks at Center Number 390379 is : 265.0803382663848
+Maximum Marks at center 390379 is: 690
+Minimum Marks at center 390379 is: 13
+Marks Above 700 at center 390379 is: 0
+Marks Above 650 at center 390379 is: 13
+Marks Above 600 at center 390379 is: 36
+Marks Above 500 at center 390379 is: 66
+****************************************************************************************
+Average Marks at Center Number 390380 is : 279.24307036247336
+Maximum Marks at center 390380 is: 681
+Minimum Marks at center 390380 is: 5
+Marks Above 700 at center 390380 is: 0
+Marks Above 650 at center 390380 is: 10
+Marks Above 600 at center 390380 is: 35
+Marks Above 500 at center 390380 is: 80
+****************************************************************************************
+Average Marks at Center Number 390381 is : 299.1425485961123
+Maximum Marks at center 390381 is: 696
+Minimum Marks at center 390381 is: 5
+Marks Above 700 at center 390381 is: 0
+Marks Above 650 at center 390381 is: 13
+Marks Above 600 at center 390381 is: 35
+Marks Above 500 at center 390381 is: 82
+****************************************************************************************
+Average Marks at Center Number 390382 is : 287.8619957537155
+Maximum Marks at center 390382 is: 700
+Minimum Marks at center 390382 is: 0
+Marks Above 700 at center 390382 is: 0
+Marks Above 650 at center 390382 is: 10
+Marks Above 600 at center 390382 is: 28
+Marks Above 500 at center 390382 is: 81
+****************************************************************************************
+Average Marks at Center Number 390383 is : 274.135593220339
+Maximum Marks at center 390383 is: 692
+Minimum Marks at center 390383 is: 6
+Marks Above 700 at center 390383 is: 0
+Marks Above 650 at center 390383 is: 16
+Marks Above 600 at center 390383 is: 37
+Marks Above 500 at center 390383 is: 78
+****************************************************************************************
+Average Marks at Center Number 390384 is : 270.29764453961457
+Maximum Marks at center 390384 is: 715
+Minimum Marks at center 390384 is: 10
+Marks Above 700 at center 390384 is: 1
+Marks Above 650 at center 390384 is: 13
+Marks Above 600 at center 390384 is: 37
+Marks Above 500 at center 390384 is: 82
+****************************************************************************************
+Average Marks at Center Number 390385 is : 275.89569160997735
+Maximum Marks at center 390385 is: 680
+Minimum Marks at center 390385 is: 1
+Marks Above 700 at center 390385 is: 0
+Marks Above 650 at center 390385 is: 9
+Marks Above 600 at center 390385 is: 26
+Marks Above 500 at center 390385 is: 59
+****************************************************************************************
+Average Marks at Center Number 390386 is : 249.35930735930737
+Maximum Marks at center 390386 is: 669
+Minimum Marks at center 390386 is: 0
+Marks Above 700 at center 390386 is: 0
+Marks Above 650 at center 390386 is: 8
+Marks Above 600 at center 390386 is: 11
+Marks Above 500 at center 390386 is: 24

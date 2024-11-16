@@ -1,0 +1,560 @@
+****************************************************************************************
+Average Marks at Center Number 150201 is : 293.9217941345601
+Maximum Marks at center 150201 is: 1650
+Minimum Marks at center 150201 is: 0
+Marks Above 700 at center 150201 is: 118
+Marks Above 650 at center 150201 is: 145
+Marks Above 600 at center 150201 is: 194
+Marks Above 500 at center 150201 is: 295
+****************************************************************************************
+Average Marks at Center Number 150202 is : 243.69323671497585
+Maximum Marks at center 150202 is: 1050
+Minimum Marks at center 150202 is: 0
+Marks Above 700 at center 150202 is: 37
+Marks Above 650 at center 150202 is: 48
+Marks Above 600 at center 150202 is: 80
+Marks Above 500 at center 150202 is: 143
+****************************************************************************************
+Average Marks at Center Number 150203 is : 277.99423393739704
+Maximum Marks at center 150203 is: 1170
+Minimum Marks at center 150203 is: 0
+Marks Above 700 at center 150203 is: 80
+Marks Above 650 at center 150203 is: 106
+Marks Above 600 at center 150203 is: 146
+Marks Above 500 at center 150203 is: 199
+****************************************************************************************
+Average Marks at Center Number 150204 is : 236.2590051457976
+Maximum Marks at center 150204 is: 1169
+Minimum Marks at center 150204 is: 0
+Marks Above 700 at center 150204 is: 26
+Marks Above 650 at center 150204 is: 45
+Marks Above 600 at center 150204 is: 84
+Marks Above 500 at center 150204 is: 143
+****************************************************************************************
+Average Marks at Center Number 150205 is : 249.3284356093345
+Maximum Marks at center 150205 is: 1140
+Minimum Marks at center 150205 is: 0
+Marks Above 700 at center 150205 is: 40
+Marks Above 650 at center 150205 is: 55
+Marks Above 600 at center 150205 is: 92
+Marks Above 500 at center 150205 is: 153
+****************************************************************************************
+Average Marks at Center Number 150206 is : 227.4010989010989
+Maximum Marks at center 150206 is: 705
+Minimum Marks at center 150206 is: 0
+Marks Above 700 at center 150206 is: 1
+Marks Above 650 at center 150206 is: 19
+Marks Above 600 at center 150206 is: 39
+Marks Above 500 at center 150206 is: 101
+****************************************************************************************
+Average Marks at Center Number 150207 is : 259.4787935909519
+Maximum Marks at center 150207 is: 870
+Minimum Marks at center 150207 is: 0
+Marks Above 700 at center 150207 is: 57
+Marks Above 650 at center 150207 is: 73
+Marks Above 600 at center 150207 is: 96
+Marks Above 500 at center 150207 is: 161
+****************************************************************************************
+Average Marks at Center Number 150208 is : 250.21613545816734
+Maximum Marks at center 150208 is: 960
+Minimum Marks at center 150208 is: 0
+Marks Above 700 at center 150208 is: 34
+Marks Above 650 at center 150208 is: 48
+Marks Above 600 at center 150208 is: 76
+Marks Above 500 at center 150208 is: 127
+****************************************************************************************
+Average Marks at Center Number 150209 is : 226.84086242299796
+Maximum Marks at center 150209 is: 700
+Minimum Marks at center 150209 is: 1
+Marks Above 700 at center 150209 is: 0
+Marks Above 650 at center 150209 is: 18
+Marks Above 600 at center 150209 is: 44
+Marks Above 500 at center 150209 is: 110
+****************************************************************************************
+Average Marks at Center Number 150210 is : 231.85966735966736
+Maximum Marks at center 150210 is: 750
+Minimum Marks at center 150210 is: 0
+Marks Above 700 at center 150210 is: 22
+Marks Above 650 at center 150210 is: 36
+Marks Above 600 at center 150210 is: 54
+Marks Above 500 at center 150210 is: 111
+****************************************************************************************
+Average Marks at Center Number 150211 is : 231.94495412844037
+Maximum Marks at center 150211 is: 810
+Minimum Marks at center 150211 is: 0
+Marks Above 700 at center 150211 is: 9
+Marks Above 650 at center 150211 is: 30
+Marks Above 600 at center 150211 is: 54
+Marks Above 500 at center 150211 is: 115
+****************************************************************************************
+Average Marks at Center Number 150212 is : 254.9832285115304
+Maximum Marks at center 150212 is: 840
+Minimum Marks at center 150212 is: 0
+Marks Above 700 at center 150212 is: 36
+Marks Above 650 at center 150212 is: 46
+Marks Above 600 at center 150212 is: 74
+Marks Above 500 at center 150212 is: 135
+****************************************************************************************
+Average Marks at Center Number 150213 is : 250.32523759239703
+Maximum Marks at center 150213 is: 930
+Minimum Marks at center 150213 is: 3
+Marks Above 700 at center 150213 is: 18
+Marks Above 650 at center 150213 is: 39
+Marks Above 600 at center 150213 is: 66
+Marks Above 500 at center 150213 is: 130
+****************************************************************************************
+Average Marks at Center Number 150214 is : 253.78669482576558
+Maximum Marks at center 150214 is: 870
+Minimum Marks at center 150214 is: 0
+Marks Above 700 at center 150214 is: 17
+Marks Above 650 at center 150214 is: 30
+Marks Above 600 at center 150214 is: 55
+Marks Above 500 at center 150214 is: 143
+****************************************************************************************
+Average Marks at Center Number 150215 is : 230.3416216216216
+Maximum Marks at center 150215 is: 870
+Minimum Marks at center 150215 is: 0
+Marks Above 700 at center 150215 is: 19
+Marks Above 650 at center 150215 is: 30
+Marks Above 600 at center 150215 is: 55
+Marks Above 500 at center 150215 is: 109
+****************************************************************************************
+Average Marks at Center Number 150216 is : 214.6967391304348
+Maximum Marks at center 150216 is: 926
+Minimum Marks at center 150216 is: 1
+Marks Above 700 at center 150216 is: 6
+Marks Above 650 at center 150216 is: 19
+Marks Above 600 at center 150216 is: 42
+Marks Above 500 at center 150216 is: 92
+****************************************************************************************
+Average Marks at Center Number 150217 is : 227.25792349726777
+Maximum Marks at center 150217 is: 780
+Minimum Marks at center 150217 is: 4
+Marks Above 700 at center 150217 is: 13
+Marks Above 650 at center 150217 is: 26
+Marks Above 600 at center 150217 is: 49
+Marks Above 500 at center 150217 is: 102
+****************************************************************************************
+Average Marks at Center Number 150218 is : 242.96888412017168
+Maximum Marks at center 150218 is: 691
+Minimum Marks at center 150218 is: 0
+Marks Above 700 at center 150218 is: 0
+Marks Above 650 at center 150218 is: 30
+Marks Above 600 at center 150218 is: 58
+Marks Above 500 at center 150218 is: 104
+****************************************************************************************
+Average Marks at Center Number 150219 is : 230.34527687296418
+Maximum Marks at center 150219 is: 870
+Minimum Marks at center 150219 is: 6
+Marks Above 700 at center 150219 is: 17
+Marks Above 650 at center 150219 is: 36
+Marks Above 600 at center 150219 is: 66
+Marks Above 500 at center 150219 is: 105
+****************************************************************************************
+Average Marks at Center Number 150220 is : 220.87424425634825
+Maximum Marks at center 150220 is: 750
+Minimum Marks at center 150220 is: 0
+Marks Above 700 at center 150220 is: 2
+Marks Above 650 at center 150220 is: 17
+Marks Above 600 at center 150220 is: 38
+Marks Above 500 at center 150220 is: 93
+****************************************************************************************
+Average Marks at Center Number 150221 is : 237.759900990099
+Maximum Marks at center 150221 is: 700
+Minimum Marks at center 150221 is: 2
+Marks Above 700 at center 150221 is: 0
+Marks Above 650 at center 150221 is: 24
+Marks Above 600 at center 150221 is: 47
+Marks Above 500 at center 150221 is: 87
+****************************************************************************************
+Average Marks at Center Number 150222 is : 229.39190897597976
+Maximum Marks at center 150222 is: 780
+Minimum Marks at center 150222 is: 0
+Marks Above 700 at center 150222 is: 5
+Marks Above 650 at center 150222 is: 15
+Marks Above 600 at center 150222 is: 51
+Marks Above 500 at center 150222 is: 106
+****************************************************************************************
+Average Marks at Center Number 150223 is : 218.61973684210525
+Maximum Marks at center 150223 is: 675
+Minimum Marks at center 150223 is: 0
+Marks Above 700 at center 150223 is: 0
+Marks Above 650 at center 150223 is: 6
+Marks Above 600 at center 150223 is: 26
+Marks Above 500 at center 150223 is: 74
+****************************************************************************************
+Average Marks at Center Number 150224 is : 244.65298013245032
+Maximum Marks at center 150224 is: 720
+Minimum Marks at center 150224 is: 0
+Marks Above 700 at center 150224 is: 20
+Marks Above 650 at center 150224 is: 31
+Marks Above 600 at center 150224 is: 53
+Marks Above 500 at center 150224 is: 104
+****************************************************************************************
+Average Marks at Center Number 150225 is : 253.75360419397117
+Maximum Marks at center 150225 is: 720
+Minimum Marks at center 150225 is: 0
+Marks Above 700 at center 150225 is: 11
+Marks Above 650 at center 150225 is: 43
+Marks Above 600 at center 150225 is: 92
+Marks Above 500 at center 150225 is: 125
+****************************************************************************************
+Average Marks at Center Number 150226 is : 220.808908045977
+Maximum Marks at center 150226 is: 695
+Minimum Marks at center 150226 is: 2
+Marks Above 700 at center 150226 is: 0
+Marks Above 650 at center 150226 is: 6
+Marks Above 600 at center 150226 is: 34
+Marks Above 500 at center 150226 is: 79
+****************************************************************************************
+Average Marks at Center Number 150227 is : 224.78909612625537
+Maximum Marks at center 150227 is: 695
+Minimum Marks at center 150227 is: 0
+Marks Above 700 at center 150227 is: 0
+Marks Above 650 at center 150227 is: 6
+Marks Above 600 at center 150227 is: 17
+Marks Above 500 at center 150227 is: 58
+****************************************************************************************
+Average Marks at Center Number 150228 is : 221.53058321479375
+Maximum Marks at center 150228 is: 701
+Minimum Marks at center 150228 is: 0
+Marks Above 700 at center 150228 is: 1
+Marks Above 650 at center 150228 is: 13
+Marks Above 600 at center 150228 is: 29
+Marks Above 500 at center 150228 is: 70
+****************************************************************************************
+Average Marks at Center Number 150229 is : 229.17285714285714
+Maximum Marks at center 150229 is: 695
+Minimum Marks at center 150229 is: 0
+Marks Above 700 at center 150229 is: 0
+Marks Above 650 at center 150229 is: 7
+Marks Above 600 at center 150229 is: 31
+Marks Above 500 at center 150229 is: 71
+****************************************************************************************
+Average Marks at Center Number 150230 is : 228.49210903873745
+Maximum Marks at center 150230 is: 705
+Minimum Marks at center 150230 is: 0
+Marks Above 700 at center 150230 is: 1
+Marks Above 650 at center 150230 is: 9
+Marks Above 600 at center 150230 is: 28
+Marks Above 500 at center 150230 is: 63
+****************************************************************************************
+Average Marks at Center Number 150231 is : 228.25327510917032
+Maximum Marks at center 150231 is: 690
+Minimum Marks at center 150231 is: 4
+Marks Above 700 at center 150231 is: 0
+Marks Above 650 at center 150231 is: 21
+Marks Above 600 at center 150231 is: 34
+Marks Above 500 at center 150231 is: 83
+****************************************************************************************
+Average Marks at Center Number 150232 is : 214.9251798561151
+Maximum Marks at center 150232 is: 701
+Minimum Marks at center 150232 is: 1
+Marks Above 700 at center 150232 is: 1
+Marks Above 650 at center 150232 is: 11
+Marks Above 600 at center 150232 is: 30
+Marks Above 500 at center 150232 is: 72
+****************************************************************************************
+Average Marks at Center Number 150233 is : 220.0803443328551
+Maximum Marks at center 150233 is: 698
+Minimum Marks at center 150233 is: 0
+Marks Above 700 at center 150233 is: 0
+Marks Above 650 at center 150233 is: 14
+Marks Above 600 at center 150233 is: 30
+Marks Above 500 at center 150233 is: 65
+****************************************************************************************
+Average Marks at Center Number 150234 is : 238.17977528089887
+Maximum Marks at center 150234 is: 700
+Minimum Marks at center 150234 is: 0
+Marks Above 700 at center 150234 is: 0
+Marks Above 650 at center 150234 is: 14
+Marks Above 600 at center 150234 is: 31
+Marks Above 500 at center 150234 is: 65
+****************************************************************************************
+Average Marks at Center Number 150235 is : 208.67307692307693
+Maximum Marks at center 150235 is: 697
+Minimum Marks at center 150235 is: 0
+Marks Above 700 at center 150235 is: 0
+Marks Above 650 at center 150235 is: 8
+Marks Above 600 at center 150235 is: 19
+Marks Above 500 at center 150235 is: 48
+****************************************************************************************
+Average Marks at Center Number 150236 is : 211.41083916083917
+Maximum Marks at center 150236 is: 705
+Minimum Marks at center 150236 is: 2
+Marks Above 700 at center 150236 is: 1
+Marks Above 650 at center 150236 is: 7
+Marks Above 600 at center 150236 is: 22
+Marks Above 500 at center 150236 is: 52
+****************************************************************************************
+Average Marks at Center Number 150237 is : 224.89965397923876
+Maximum Marks at center 150237 is: 686
+Minimum Marks at center 150237 is: 3
+Marks Above 700 at center 150237 is: 0
+Marks Above 650 at center 150237 is: 7
+Marks Above 600 at center 150237 is: 19
+Marks Above 500 at center 150237 is: 46
+****************************************************************************************
+Average Marks at Center Number 150238 is : 213.78103448275863
+Maximum Marks at center 150238 is: 700
+Minimum Marks at center 150238 is: 0
+Marks Above 700 at center 150238 is: 0
+Marks Above 650 at center 150238 is: 6
+Marks Above 600 at center 150238 is: 23
+Marks Above 500 at center 150238 is: 53
+****************************************************************************************
+Average Marks at Center Number 150239 is : 213.32399299474605
+Maximum Marks at center 150239 is: 680
+Minimum Marks at center 150239 is: 3
+Marks Above 700 at center 150239 is: 0
+Marks Above 650 at center 150239 is: 7
+Marks Above 600 at center 150239 is: 23
+Marks Above 500 at center 150239 is: 47
+****************************************************************************************
+Average Marks at Center Number 150240 is : 228.63385146804836
+Maximum Marks at center 150240 is: 690
+Minimum Marks at center 150240 is: 0
+Marks Above 700 at center 150240 is: 0
+Marks Above 650 at center 150240 is: 5
+Marks Above 600 at center 150240 is: 24
+Marks Above 500 at center 150240 is: 47
+****************************************************************************************
+Average Marks at Center Number 150241 is : 239.00349040139616
+Maximum Marks at center 150241 is: 695
+Minimum Marks at center 150241 is: 0
+Marks Above 700 at center 150241 is: 0
+Marks Above 650 at center 150241 is: 11
+Marks Above 600 at center 150241 is: 27
+Marks Above 500 at center 150241 is: 58
+****************************************************************************************
+Average Marks at Center Number 150242 is : 226.79896907216494
+Maximum Marks at center 150242 is: 690
+Minimum Marks at center 150242 is: 3
+Marks Above 700 at center 150242 is: 0
+Marks Above 650 at center 150242 is: 11
+Marks Above 600 at center 150242 is: 33
+Marks Above 500 at center 150242 is: 73
+****************************************************************************************
+Average Marks at Center Number 150243 is : 215.7883597883598
+Maximum Marks at center 150243 is: 690
+Minimum Marks at center 150243 is: 4
+Marks Above 700 at center 150243 is: 0
+Marks Above 650 at center 150243 is: 4
+Marks Above 600 at center 150243 is: 22
+Marks Above 500 at center 150243 is: 48
+****************************************************************************************
+Average Marks at Center Number 150244 is : 222.86042402826854
+Maximum Marks at center 150244 is: 685
+Minimum Marks at center 150244 is: 0
+Marks Above 700 at center 150244 is: 0
+Marks Above 650 at center 150244 is: 8
+Marks Above 600 at center 150244 is: 31
+Marks Above 500 at center 150244 is: 54
+****************************************************************************************
+Average Marks at Center Number 150245 is : 217.89464594127807
+Maximum Marks at center 150245 is: 720
+Minimum Marks at center 150245 is: 4
+Marks Above 700 at center 150245 is: 1
+Marks Above 650 at center 150245 is: 9
+Marks Above 600 at center 150245 is: 23
+Marks Above 500 at center 150245 is: 67
+****************************************************************************************
+Average Marks at Center Number 150246 is : 226.69739130434783
+Maximum Marks at center 150246 is: 686
+Minimum Marks at center 150246 is: 1
+Marks Above 700 at center 150246 is: 0
+Marks Above 650 at center 150246 is: 10
+Marks Above 600 at center 150246 is: 26
+Marks Above 500 at center 150246 is: 51
+****************************************************************************************
+Average Marks at Center Number 150247 is : 234.0103448275862
+Maximum Marks at center 150247 is: 688
+Minimum Marks at center 150247 is: 0
+Marks Above 700 at center 150247 is: 0
+Marks Above 650 at center 150247 is: 8
+Marks Above 600 at center 150247 is: 29
+Marks Above 500 at center 150247 is: 68
+****************************************************************************************
+Average Marks at Center Number 150248 is : 226.4265734265734
+Maximum Marks at center 150248 is: 693
+Minimum Marks at center 150248 is: 0
+Marks Above 700 at center 150248 is: 0
+Marks Above 650 at center 150248 is: 5
+Marks Above 600 at center 150248 is: 23
+Marks Above 500 at center 150248 is: 50
+****************************************************************************************
+Average Marks at Center Number 150249 is : 219.19614711033276
+Maximum Marks at center 150249 is: 686
+Minimum Marks at center 150249 is: 0
+Marks Above 700 at center 150249 is: 0
+Marks Above 650 at center 150249 is: 14
+Marks Above 600 at center 150249 is: 33
+Marks Above 500 at center 150249 is: 60
+****************************************************************************************
+Average Marks at Center Number 150250 is : 243.0
+Maximum Marks at center 150250 is: 700
+Minimum Marks at center 150250 is: 0
+Marks Above 700 at center 150250 is: 0
+Marks Above 650 at center 150250 is: 12
+Marks Above 600 at center 150250 is: 22
+Marks Above 500 at center 150250 is: 71
+****************************************************************************************
+Average Marks at Center Number 150251 is : 222.2651515151515
+Maximum Marks at center 150251 is: 710
+Minimum Marks at center 150251 is: 0
+Marks Above 700 at center 150251 is: 1
+Marks Above 650 at center 150251 is: 6
+Marks Above 600 at center 150251 is: 28
+Marks Above 500 at center 150251 is: 47
+****************************************************************************************
+Average Marks at Center Number 150252 is : 223.92120075046904
+Maximum Marks at center 150252 is: 701
+Minimum Marks at center 150252 is: 0
+Marks Above 700 at center 150252 is: 1
+Marks Above 650 at center 150252 is: 6
+Marks Above 600 at center 150252 is: 19
+Marks Above 500 at center 150252 is: 41
+****************************************************************************************
+Average Marks at Center Number 150253 is : 214.04772234273318
+Maximum Marks at center 150253 is: 690
+Minimum Marks at center 150253 is: 0
+Marks Above 700 at center 150253 is: 0
+Marks Above 650 at center 150253 is: 6
+Marks Above 600 at center 150253 is: 11
+Marks Above 500 at center 150253 is: 35
+****************************************************************************************
+Average Marks at Center Number 150254 is : 233.8308026030369
+Maximum Marks at center 150254 is: 695
+Minimum Marks at center 150254 is: 0
+Marks Above 700 at center 150254 is: 0
+Marks Above 650 at center 150254 is: 6
+Marks Above 600 at center 150254 is: 18
+Marks Above 500 at center 150254 is: 39
+****************************************************************************************
+Average Marks at Center Number 150255 is : 225.33913043478262
+Maximum Marks at center 150255 is: 696
+Minimum Marks at center 150255 is: 2
+Marks Above 700 at center 150255 is: 0
+Marks Above 650 at center 150255 is: 8
+Marks Above 600 at center 150255 is: 17
+Marks Above 500 at center 150255 is: 40
+****************************************************************************************
+Average Marks at Center Number 150256 is : 228.83766233766235
+Maximum Marks at center 150256 is: 679
+Minimum Marks at center 150256 is: 1
+Marks Above 700 at center 150256 is: 0
+Marks Above 650 at center 150256 is: 5
+Marks Above 600 at center 150256 is: 17
+Marks Above 500 at center 150256 is: 44
+****************************************************************************************
+Average Marks at Center Number 150257 is : 193.11333333333334
+Maximum Marks at center 150257 is: 665
+Minimum Marks at center 150257 is: 0
+Marks Above 700 at center 150257 is: 0
+Marks Above 650 at center 150257 is: 3
+Marks Above 600 at center 150257 is: 13
+Marks Above 500 at center 150257 is: 30
+****************************************************************************************
+Average Marks at Center Number 150258 is : 183.9164835164835
+Maximum Marks at center 150258 is: 695
+Minimum Marks at center 150258 is: 0
+Marks Above 700 at center 150258 is: 0
+Marks Above 650 at center 150258 is: 5
+Marks Above 600 at center 150258 is: 20
+Marks Above 500 at center 150258 is: 45
+****************************************************************************************
+Average Marks at Center Number 150259 is : 197.49889624724062
+Maximum Marks at center 150259 is: 706
+Minimum Marks at center 150259 is: 2
+Marks Above 700 at center 150259 is: 1
+Marks Above 650 at center 150259 is: 8
+Marks Above 600 at center 150259 is: 22
+Marks Above 500 at center 150259 is: 40
+****************************************************************************************
+Average Marks at Center Number 150260 is : 185.05092592592592
+Maximum Marks at center 150260 is: 675
+Minimum Marks at center 150260 is: 2
+Marks Above 700 at center 150260 is: 0
+Marks Above 650 at center 150260 is: 2
+Marks Above 600 at center 150260 is: 8
+Marks Above 500 at center 150260 is: 31
+****************************************************************************************
+Average Marks at Center Number 150261 is : 183.74939172749393
+Maximum Marks at center 150261 is: 700
+Minimum Marks at center 150261 is: 0
+Marks Above 700 at center 150261 is: 0
+Marks Above 650 at center 150261 is: 6
+Marks Above 600 at center 150261 is: 14
+Marks Above 500 at center 150261 is: 30
+****************************************************************************************
+Average Marks at Center Number 150262 is : 181.54299754299754
+Maximum Marks at center 150262 is: 692
+Minimum Marks at center 150262 is: 1
+Marks Above 700 at center 150262 is: 0
+Marks Above 650 at center 150262 is: 6
+Marks Above 600 at center 150262 is: 15
+Marks Above 500 at center 150262 is: 28
+****************************************************************************************
+Average Marks at Center Number 150263 is : 170.67098445595855
+Maximum Marks at center 150263 is: 681
+Minimum Marks at center 150263 is: 0
+Marks Above 700 at center 150263 is: 0
+Marks Above 650 at center 150263 is: 5
+Marks Above 600 at center 150263 is: 12
+Marks Above 500 at center 150263 is: 32
+****************************************************************************************
+Average Marks at Center Number 150264 is : 187.98603351955308
+Maximum Marks at center 150264 is: 677
+Minimum Marks at center 150264 is: 1
+Marks Above 700 at center 150264 is: 0
+Marks Above 650 at center 150264 is: 7
+Marks Above 600 at center 150264 is: 11
+Marks Above 500 at center 150264 is: 25
+****************************************************************************************
+Average Marks at Center Number 150265 is : 181.0782608695652
+Maximum Marks at center 150265 is: 690
+Minimum Marks at center 150265 is: 2
+Marks Above 700 at center 150265 is: 0
+Marks Above 650 at center 150265 is: 3
+Marks Above 600 at center 150265 is: 8
+Marks Above 500 at center 150265 is: 17
+****************************************************************************************
+Average Marks at Center Number 150266 is : 188.0059171597633
+Maximum Marks at center 150266 is: 715
+Minimum Marks at center 150266 is: 2
+Marks Above 700 at center 150266 is: 2
+Marks Above 650 at center 150266 is: 7
+Marks Above 600 at center 150266 is: 16
+Marks Above 500 at center 150266 is: 30
+****************************************************************************************
+Average Marks at Center Number 150267 is : 186.04827586206898
+Maximum Marks at center 150267 is: 692
+Minimum Marks at center 150267 is: 3
+Marks Above 700 at center 150267 is: 0
+Marks Above 650 at center 150267 is: 2
+Marks Above 600 at center 150267 is: 6
+Marks Above 500 at center 150267 is: 15
+****************************************************************************************
+Average Marks at Center Number 150268 is : 177.1908396946565
+Maximum Marks at center 150268 is: 680
+Minimum Marks at center 150268 is: 5
+Marks Above 700 at center 150268 is: 0
+Marks Above 650 at center 150268 is: 3
+Marks Above 600 at center 150268 is: 9
+Marks Above 500 at center 150268 is: 23
+****************************************************************************************
+Average Marks at Center Number 150269 is : 175.81012658227849
+Maximum Marks at center 150269 is: 666
+Minimum Marks at center 150269 is: 1
+Marks Above 700 at center 150269 is: 0
+Marks Above 650 at center 150269 is: 2
+Marks Above 600 at center 150269 is: 6
+Marks Above 500 at center 150269 is: 13
+****************************************************************************************
+Average Marks at Center Number 150270 is : 190.24695652173912
+Maximum Marks at center 150270 is: 690
+Minimum Marks at center 150270 is: 0
+Marks Above 700 at center 150270 is: 0
+Marks Above 650 at center 150270 is: 4
+Marks Above 600 at center 150270 is: 16
+Marks Above 500 at center 150270 is: 80

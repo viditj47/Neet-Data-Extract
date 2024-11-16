@@ -1,0 +1,8 @@
+****************************************************************************************
+Average Marks at Center Number 230701 is : 232.59716599190284
+Maximum Marks at center 230701 is: 682
+Minimum Marks at center 230701 is: 0
+Marks Above 700 at center 230701 is: 0
+Marks Above 650 at center 230701 is: 2
+Marks Above 600 at center 230701 is: 15
+Marks Above 500 at center 230701 is: 42
