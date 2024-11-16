@@ -2,7 +2,7 @@ import requests
 import re
 from PyPDF2 import PdfReader
 from read_neet_data_from_pdf import read_data_from_pdf
-#this function will download the pdf
+
 def download_pdf(url, output_path,center_number,file_name):
     headers = {
         "Accept": "application/pdf"
